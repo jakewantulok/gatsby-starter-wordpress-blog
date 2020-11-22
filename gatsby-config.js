@@ -26,7 +26,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress-experimental`,
       options: {
         // the only required plugin option for WordPress is the GraphQL url.
-        url: `https://8a226ffc99f7.ngrok.io/graphql`, // https://webhook.gatsbyjs.com/hooks/data_source/a30cc547-09ac-47ad-adda-8328d5e5830a
+        url: `https://ac78ea43d8d7.ngrok.io/graphql`, // https://webhook.gatsbyjs.com/hooks/data_source/a30cc547-09ac-47ad-adda-8328d5e5830a
       },
     },
 
